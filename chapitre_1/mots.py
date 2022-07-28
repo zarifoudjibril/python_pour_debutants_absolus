@@ -1,3 +1,5 @@
+# Note: Ce fichier a été adopté du cours Python for Everyone du Dr. Charles R. Severance et traduit pour une audiance Francophone.
+
 nom = input('Entrer le nom du fichier: ')
 gestionaire = open(nom, 'r')
 compteur = dict()
