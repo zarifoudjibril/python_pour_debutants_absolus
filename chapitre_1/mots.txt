@@ -1,0 +1,24 @@
+L'écriture de programmes ou la programmation est une activité très créative
+et une activité enrichissante Vous pouvez écrire des programmes pour
+de nombreuses raisons allant de gagner sa vie à résoudre
+un problème d'analyse de données difficile à s'amuser à aider
+quelqu'un d'autre résout un problème Ce livre part du principe que
+{\em tout le monde} doit savoir programmer et cela une fois
+tu sais programmer, tu sauras ce que tu veux
+à voir avec vos nouvelles compétences
+
+Nous sommes entourés dans notre vie quotidienne d'ordinateurs allant
+des ordinateurs portables aux téléphones portables Nous pouvons penser à ces ordinateurs
+comme nos assistants personnels qui peuvent s'occuper de beaucoup de choses
+en notre nom Le matériel de nos ordinateurs actuels
+est essentiellement construit pour nous poser continuellement la question
+Que voudriez-vous que je fasse ensuite
+
+Nos ordinateurs sont rapides et disposent de vastes quantités de mémoire et
+pourrait nous être très utile si seulement nous connaissions la langue pour
+parler pour expliquer à l'ordinateur ce qu'on voudrait qu'il fasse
+faire ensuite Si nous connaissions cette langue, nous pourrions
+ordinateur pour effectuer des tâches en notre nom qui étaient répétitives
+Fait intéressant, les types de choses que les ordinateurs peuvent faire le mieux
+sont souvent le genre de choses que nous, les humains, trouvons ennuyeuses
+et abrutissant
