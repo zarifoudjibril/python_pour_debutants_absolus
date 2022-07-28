@@ -1,4 +1,4 @@
-# Python pour débutants Absolus
+# Python pour Débutants Absolus
 
 ## Ceci est un repositoire des projets de "Python pour Débutants Absolus".
 
