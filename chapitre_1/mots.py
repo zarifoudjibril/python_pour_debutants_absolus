@@ -15,3 +15,9 @@ for mot, nombre in list(compteur.items()):
         nombrefois = nombre
 
 print(motplusrep, nombrefois)
+
+
+
+
+# NOTE: Ce fichier a été adopté et du cours "Python for Everybody" du Dr. Charles R. Severance et modifier (principalement traduit en Français).
+# Lien du cours: https://www.py4e.com
