@@ -1,7 +1,7 @@
 # Cet exercice est adopté du livre "Python for Everybody" écris par Dr. Charles R. Severance et traduit en Français et modifié par Zarifou Djibril (https://medium.com/@zarifoud). Lien: http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 
 
-# Exercice 3 : écrivez un programme pour demander à l'utilisateur le nombre d'heures qu'il travail par semaine et le payement par heure pour calculer son salaire mensuel.
+# Exercice 2 : écrivez un programme pour demander à l'utilisateur le nombre d'heures qu'il travail par semaine et le payement par heure pour calculer son salaire mensuel.
 
 # Entrez le nombre d'heures : 35
 # Entrez le payement par heure : 2.75
